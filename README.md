@@ -15,7 +15,7 @@ Une mini application Todo développée en HTML, CSS et JavaScript.
 
 ## 📦 Installation
 1. Clonez le dépôt :
-git clone https://github.com/guysolamour/todo-list.git
+git clone https://github.com/guysolamour/todolist.git
 2. Ouvrez index.html dans votre navigateur
 
 ## 🌐 Déploiement
